@@ -1,7 +1,6 @@
 # flipkart-ui-automation-playwright
 Playwright Automation Framework for Flipkart | UI Testing | POM | JavaScript | Fixtures | Reports | CI/CD
 
-# Playwright Flipkart Automation Framework
 
 This project automates end-to-end testing of Flipkart web application using Playwright and JavaScript.
 
